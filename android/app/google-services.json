@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "295257017311",
+    "project_id": "rentapp-7a3ec",
+    "storage_bucket": "rentapp-7a3ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295257017311:android:1493c7114d0e3bbf24926a",
+        "android_client_info": {
+          "package_name": "com.example.car_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295257017311-4q0e2m5aeogsvc5p8sibplisiqjf3qio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3L-1cami7weVTtJG_FYjrxYtGNTlXqoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295257017311-4q0e2m5aeogsvc5p8sibplisiqjf3qio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295257017311-2fcld3lk3opb0i1eod774kj8b45hpnnd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carRentApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
